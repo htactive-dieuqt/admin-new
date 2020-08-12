@@ -1,0 +1,21 @@
+.brand{
+    background-color: #009688;
+}
+
+.login-btn{
+    background-color: #009688;
+    width: 8rem;
+}
+
+.fg-password{
+    color: #009688!important;
+}
+
+.logo-brand{
+    width: 12rem;
+    height: 12rem;
+}
+
+.brand-title{
+    margin-top: 85px;
+}
